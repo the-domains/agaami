@@ -1,6 +1,6 @@
 name: agaami
 favicon: null
-layout_spectrum: 0.2606713706627488
+layout_spectrum: 0.16039
 typography_spectrum: 0.2442
 title: Agaami LLC
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#4d4d4d'
     - '#ffffff'
-    - '#000000'
-    - '#aaaaaa'
-    - '#ffff00'
+    - '#4d4d4d'
+    - '#7c7b7c'
+    - '#dfdbda'
+    - '#f69945'
   brandStrength: 0.25
   lightness: 0.75
   saturation: 0.8125
