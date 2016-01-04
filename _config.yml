@@ -2,6 +2,7 @@ name: agaami
 favicon: null
 layout_spectrum: 0.2606713706627488
 typography_spectrum: 0.36708779726177454
+title: Agaami LLC
 cta:
   domain: null
   bucket: null
