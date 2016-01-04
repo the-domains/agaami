@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Agaami LLC]]></title>
+        <description><![CDATA[Agaami LLC]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jan 2016 21:35:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who are we?]]></title>
+            <description><![CDATA[<article><h1>Who are we?</h1><p>Agaami is a limited liability company created with a sole focus on providing expert design services for websites, apps, and mobile web. In this "there's an app for that" era, it is imperitive to have your online presence. Even more, it is quintessential to have a presence that does more for your business than a mere web presence in the infinite web. Agaami can help you create information architecture and designs that provide the best user experience for your customers while help you achieve your business goals.  </p></article>]]></description>
+            <link>undefinedwho-are-we/index.html</link>
+            <guid isPermaLink="false">ab79567d-15ab-4586-b3c5-92a31d6c7e15</guid>
+            <pubDate>Mon, 04 Jan 2016 21:35:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
